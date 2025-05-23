@@ -1,1 +1,20 @@
+A. Descripción del programa:
 
+- Ophcrack es una herramienta gratuita que se utiliza para recuperar contraseñas de cuentas de usuario en sistemas Windows.
+Funciona mediante el uso de "tablas arcoiris", que son un conjunto de datos precomputados para descifrar contraseñas de manera
+rápida. Si alguna vez necesitas recuperar una contraseña olvidada o perdida de una cuenta de Windows, Ophcrack es una opción
+bastante útil.
+
+- Es importante tener en cuenta que esta herramienta solo debe utilizarse con fines legítimos, como cuando tienes acceso al equipo
+y has olvidado tu propia contraseña. No se debe usar para acceder a equipos ajenos sin autorización.
+
+
+B. Enlace para descargarse la herramienta:
+
+- https://ophcrack.sourceforge.io/
+
+
+C. Video explicativo:
+
+- Cómo utilizar Ophcrack
+https://www.youtube.com/watch?v=Xka-0mQas64
